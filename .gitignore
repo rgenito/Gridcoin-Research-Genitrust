@@ -1,4 +1,5 @@
 src/*.exe
+src/obj
 src/gridccoinstake
 src/gridcoinresearchd
 src/test_gridcoin
@@ -7,6 +8,7 @@ contrib/deprecated
 contrib/deprecated/bin
 release
 .*.swp
+*.swo
 *.*~*
 *.bak
 *.rej
